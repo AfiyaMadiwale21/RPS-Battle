@@ -1,4 +1,5 @@
 # 🎮 Rock-Paper-Scissors Game
+The RPS-Battle
 
 This project is a **classic Rock Paper Scissors game** built using **HTML, CSS, and JavaScript**.
 It allows the user to play against the computer with dynamic outcomes and user-friendly UI.
@@ -24,7 +25,7 @@ It allows the user to play against the computer with dynamic outcomes and user-f
 ## 🚀To play and run this project:
 1. **Download or Clone the Repository**
 \`\`\`bash
-git clone https://github.com/your-github-username/rock-paper-scissors-game.git
+git clone https://github.com/AfiyaMadiwale21/RPS-Battle.git
 \`\`\`
 2. **Open the Project Folder**
 - Navigate to the folder where the project is saved.
