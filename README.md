@@ -25,7 +25,6 @@ It allows the user to play against the computer with dynamic outcomes and user-f
 ## 🚀To play and run this project:
 1. **Download or Clone the Repository**
 git clone https://github.com/AfiyaMadiwale21/RPS-Battle.git
-\`\`\`
 2. **Open the Project Folder**
 - Navigate to the folder where the project is saved.
 3. **Run the \`index.html\` File**
