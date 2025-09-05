@@ -1,11 +1,11 @@
-# 🪨 Rock Paper Scissors ✂️
+# The RPS-Battle
+Rock Paper Scissors
 
 A simple and interactive Rock, Paper, Scissors game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer and see who wins!
 
 ## 🔗 Live Demo
 
 👉 [Click here to play the game](https://rps-battle.vercel.app/)  
-*
 
 ---
 
